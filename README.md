@@ -24,6 +24,6 @@ The ASU Restroom Review Guide is a full-stack web application that allows users 
 
 - Other Tools: Git, Visual Studio Code
 
-Link to Web: 
+# Link to Deployed Website: 
 [asu-disaster-relief.s3.us-east-2.amazonaws.com 
 ](https://asu-disaster-relief.s3.us-east-2.amazonaws.com/disaster_relief.html)
