@@ -2,25 +2,28 @@
 
 The ASU Restroom Review Guide is a full-stack web application that allows users to submit and browse reviews of campus restrooms, helping students and visitors find the cleanest and most accessible facilities on campus.
 
-Features
-Real-Time Reviews – Submit and view restroom reviews instantly via AWS DynamoDB.
+# Features
 
-Serverless Backend – Built with AWS API Gateway and Lambda for scalability and low maintenance.
+- Real-Time Reviews – Submit and view restroom reviews instantly via AWS DynamoDB.
 
-Secure API Integration – Configured CORS policies to ensure safe cross-origin requests from an S3-hosted frontend.
+- Serverless Backend – Built with AWS API Gateway and Lambda for scalability and low maintenance.
 
-User-Friendly Interface – Simple and responsive design for mobile and desktop access.
+- Secure API Integration – Configured CORS policies to ensure safe cross-origin requests from an S3-hosted frontend.
 
-Tech Stack
-Frontend: JavaScript, HTML/CSS
+- User-Friendly Interface – Simple and responsive design for mobile and desktop access.
 
-Backend: AWS API Gateway, AWS Lambda
+# Tech Stack
 
-Database: AWS DynamoDB
+- Frontend: JavaScript, HTML/CSS
 
-Hosting: AWS S3
+- Backend: AWS API Gateway, AWS Lambda
 
-Other Tools: Git, Visual Studio Code
+- Database: AWS DynamoDB
+
+- Hosting: AWS S3
+
+- Other Tools: Git, Visual Studio Code
 
 Link to Web: 
-asu-disaster-relief.s3.us-east-2.amazonaws.com 
+[asu-disaster-relief.s3.us-east-2.amazonaws.com 
+](https://asu-disaster-relief.s3.us-east-2.amazonaws.com/disaster_relief.html)
